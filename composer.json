@@ -23,10 +23,5 @@
             "Mika56\\SPFCheck\\": "src"
         }
     },
-    "license": "MIT",
-    "config": {
-        "platform": {
-            "php": "5.4"
-        }
-    }
+    "license": "MIT"
 }
